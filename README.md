@@ -7,7 +7,17 @@ I am a Software Engineer in Test who loves to work on checking quality and build
 - 🌱 I’m currently learning Kubernetes basics and reading casually about building AI agents
 - 👯 I’m looking to collaborate on projects where I can further hone my technical skills and assume the role of a leader in a company paying importance to quality checks
 - 🤔 I’m looking for help with sample projects where unit testing can be mastered
-- 💬 Ask me about quality checking through means like Screenplay design pattern, E2E testing, API testing, Mutation testing
+- 💬 Ask me about
+  | Automation   | Programming | DevOps & CI/CD | Testing Domains  | Methodologies |
+  |----------    |----------   |----------      |----------        |----------     |
+  | Playwright   | Typescript  | Docker         | E2E testing      | BDD           |
+  | Cypress      | Java        | Github Actions | API testing      | Agile         |
+  | Selenium     | Python      | Git            | Mutation testing | CI/CD         |
+  | Rest Assured | 
+  | Cucumber     |
+  | NX           |
+  | Datadog      | 
+  | Stryker      |
 - 📫 How to reach me: [email](pandeypraveen0204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prudentpraveenpandey/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Whatsapp chats never define urgency for me. Phone calls do

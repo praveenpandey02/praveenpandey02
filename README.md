@@ -13,7 +13,7 @@ I am a Software Engineer in Test who loves to work on checking quality and build
   | Playwright   | Typescript  | Docker         | E2E testing      | BDD           |
   | Cypress      | Java        | Github Actions | API testing      | Agile         |
   | Selenium     | Python      | Git            | Mutation testing | CI/CD         |
-  | Rest Assured | 
+  | Rest Assured |             | AWS (basic)    |
   | Cucumber     |
   | NX           |
   | Datadog      | 

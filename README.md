@@ -19,4 +19,4 @@ I am a Software Engineer in Test who loves to work on checking quality and build
   | Stryker              |
 - 📫 How to reach me: [email](pandeypraveen0204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prudentpraveenpandey/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Whatsapp chats never define urgency for me. Phone calls do
+- ⚡ Fun fact: If it's textable, please don't call me 😉
